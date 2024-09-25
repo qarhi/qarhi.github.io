@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://qarhi.github.io/Qqk/sitemap.Qqk.gz
